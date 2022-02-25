@@ -1,0 +1,60 @@
+.border:hover {
+  background-color: rgb(173, 104, 104);
+}
+.border {
+  position: relative;
+  border-radius: 5px;
+  width: 300px;
+  height: 630px;
+  border: 1.5px solid black;
+  margin: 100px auto;
+  background-color: #444;
+}
+img {
+  width: 300px;
+  height: 200px;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+.h1 {
+  text-align: center;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  margin: 0 auto;
+  border-bottom: 1.5px solid black;
+}
+.zedw {
+  width: 50px;
+  height: 50px;
+}
+.zedr {
+  width: 50px;
+  height: 50px;
+}
+
+.taster {
+  width: 300px;
+  height: 20px;
+}
+.taster:hover {
+  background-color: black;
+  color: white;
+  letter-spacing: 5px;
+  font-family: sans-serif;
+}
+.loltext {
+  padding: 20px;
+  text-transform: uppercase;
+  background-color: rgb(197, 133, 133);
+  width: 180px;
+  position: absolute;
+  right: 200px;
+  bottom: 580px;
+  border: 1.5px solid black;
+  border-radius: 20px;
+  font-weight: bold;
+}
