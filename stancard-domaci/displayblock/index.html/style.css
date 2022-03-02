@@ -1,37 +1,17 @@
-/* .kontenjer {
+.itemi {
   display: inline-block;
-} */
-.row {
-  gap: 10px;
-  display: flex;
-  height: 500px;
-  width: 100%;
+  width: 600px;
+  height: 600px;
 }
-
-.row div {
-  width: 50%;
+.plava {
+  background-color: cornflowerblue;
 }
-
-.noMargin {
-  /* display: inline-block; */
-  margin: 0px;
+.crvena {
+  background-color: tomato;
 }
-
-.one {
-  margin-bottom: 10px;
-  background-color: rgb(236, 168, 168);
+.crna {
+  background-color: black;
 }
-
-.two {
-  margin-bottom: 10px;
-  background-color: rgb(46, 46, 10);
-}
-
-.three {
-  /* margin-bottom: 10px; */
-  background-color: rgb(19, 41, 19);
-}
-
-.four {
-  background-color: rgb(23, 23, 63);
+.zelena {
+  background-color: green;
 }
