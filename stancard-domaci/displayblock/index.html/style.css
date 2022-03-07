@@ -1,17 +1,49 @@
-.itemi {
-  display: inline-block;
-  width: 600px;
-  height: 600px;
+* {
+  margin: 0;
 }
+
+img {
+  width: 500px;
+  height: 500px;
+  border: 2.5px dashed black;
+  border-radius: 250px;
+}
+
+.link {
+  color: red;
+}
+body {
+  align-items: center;
+  height: 100%;
+  width: 100vw;
+}
+
+.itemi {
+  /* width: 600px; */
+  height: 300px;
+}
+
+.kanta {
+  width: 100%;
+}
+
 .plava {
+  width: 50%;
+  display: inline-block;
   background-color: cornflowerblue;
 }
 .crvena {
+  width: 50%;
+  display: inline-block;
   background-color: tomato;
 }
 .crna {
+  width: 49%;
+  display: inline-block;
   background-color: black;
 }
 .zelena {
+  width: 49%;
+  display: inline-block;
   background-color: green;
 }

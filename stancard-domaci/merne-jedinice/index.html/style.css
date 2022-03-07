@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+}
+
+/* .flex {
+  display: flex;
+  width: 100%;
+  height: 300px;
+  background-color: #444;
+  flex-direction: column;
+}
+.prvi {
+  background-color: red;
+  width: 200px;
+  height: 300px;
+}
+.drugi {
+  background-color: blue;
+  width: 200px;
+  height: 300px;
+}
+.treci {
+  background-color: darkcyan;
+  width: 200px;
+  height: 300px;
+} */
+
+/* VIEWPORT HEIGHT */
+
+/* .vh-vw {
+  background-color: crimson;
+  height: 100vh;
+  width: 100vw;
+}
+.nav {
+  height: 10vh;
+  width: 10vw;
+  background-color: aqua;
+} */
+
+/* emovi / removi */
+
+/* h1 {
+  font-size: 10rem;
+}
+:root {
+  font-size: 10px;
+} */
+
+.em {
+  font-size: 10px;
+}
+span {
+  font-size: 7.5em;
+}
